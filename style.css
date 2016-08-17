@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.img-splash {
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/*
+.splash {
+  text-align: center;
+}*/
+
+.splash h1 {
+  margin: 0 auto;
+}
