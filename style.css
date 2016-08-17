@@ -3,10 +3,18 @@
   padding: 0;
 }
 
+.splash {
+  width: 100vw;
+  height: 100vh;
+  /*position: relative;*/
+}
+
 .img-splash {
+  position: relative;
   background-position: 100% 100%;
   background-repeat: no-repeat;
   background-size: cover;
+  width: 100%;
 }
 /*
 .splash {
@@ -14,5 +22,10 @@
 }*/
 
 .splash h1 {
+  color: white;
+  left: 40%;
+  font-size: 80px;
+  top: 220px;
   margin: 0 auto;
+  position: absolute;
 }
