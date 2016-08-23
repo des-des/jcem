@@ -8,10 +8,15 @@ small isometric1
 sub-zero
 banner3d
 
---------|  - - - - - WHAT WIll WE DO FOR YOU ?
-        | wireframe - prototype - build - test -iterate
+
+
+                        UKO
+                    WE BUILD APPS
+
+--------|  - - - - - WHAT WIll WE DO FOR YOU ? - - - - - - -
+        | wireframe - prototype - build - test - iterate
         | -- more text --
-        |  - - - - - HOW WE DO IT
+        |  - - - - - HOW WE WILL DO IT - - - - - - -
         | 1) wireframe *
         -- We can help you walk through your ux. Where does you user start? where do they need to go?  From the inception of you idea we can (something).
         ... more
@@ -24,32 +29,28 @@ banner3d
         | 5) iterate *
          -- we like agile development. Delete? Extend? Replace? Move forward.
         |
-
-        .----------------.   .----------------.  .----------------.  .----------------.   .----------------.  .----------------.
-| .--------------. ||
-| | _____  _____ | ||
-| ||_   _||_   _|| ||
-| |  | |    | |  | ||
-| |  | '    ' |  | ||
-| |   \ `--' /   | ||
-| |    `.__.'    | ||
-| |              | kko       ||
-| '--------------' ||
-'----------------'   '----------------'  '----------------'  '----------------'   '----------------'  '----------------'
+        |
+        |-----------------red---------------------------------------------------
+        |  - - - - - MEET THE TEAM - - - - - -
+        | :) (link to linkedIn profile)          ;p
+        | Jack                                  Eoin
+        | Description                         Description
         |
         |
         |
-        |  - - - - -
+        | - - - - - OUR WORK - - - - - -
+        |
+        |           ( .)(. )
         |
         |
+        |  OKAY WE KNOW THIS IS KIND OF SILLY BUT ALL THE OTHER AGENCY SITES WE LOOKED AT WERE REAL BORING....WE'RE SHIT HOT
         |
         |
-        |
-        |
-        |
-        |
-        |
-        |
+        | - - - - GET IN TOUCH - - - - -
+        | [ ] start up   [ ] big corporate
+        | NAME
+        | SUBJECT
+        | MESSAGE
         |
         |
         |
@@ -61,35 +62,3 @@ banner3d
         |
         |
         |
-        |
-        |
-        |
-        |
-        |
-        |
-        |   m veniam, quis nostrud exe]
-   rcitation ullamco laboris
-________   nisi ut aliquip ex ea comm
---------   odo consequat. Duis aute i
-________   rure dolor in reprehenderi
---------   t in voluptate velit esse             *
-********   cillum dolore eu fugiat nu
---------   lla pariatur. Excepteur si
---------   nt occaecat cupidatat non
---------    proident, sunt in culpa q
---------    ui officia deserunt mollit
---------     anim id est laborum.
-                    |
-            |
-            \
-             \
-               ---------
-                        \
-                         \
-                         |
-                         |
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
